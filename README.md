@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Ian Pires
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Typescript 
+- 🌱 Estudando ReactJS 
 - 😄 Pronouns: ele/dele
 
 <div>
